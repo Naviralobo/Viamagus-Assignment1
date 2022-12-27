@@ -1,0 +1,53 @@
+.login {
+  width: 40%;
+  margin: -10% 30%;
+  border-radius: 5px;
+  background-color: white;
+}
+.tree {
+  width: 100%;
+}
+.amazon {
+  width: 15%;
+  margin: 2% 42.5% 0%;
+}
+.hr {
+  margin-top: -0.55%;
+}
+.amazonbg {
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 0 8px 0 grey;
+}
+.heading {
+  text-align: center;
+  color: rgb(89, 150, 89);
+  font-size: large;
+  margin-top: 2%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font: large;
+  font-weight: bold;
+}
+.bodyDiv {
+  width: 80%;
+  margin: 0 10%;
+}
+.forgotOrNewUser {
+  display: flex;
+  justify-content: space-between;
+  margin: 3%;
+  font-weight: bold;
+  font-size: small;
+}
+.googleFb {
+  width: 100%;
+  display: flex;
+  margin: 2% 0;
+  background-color: rgb(14, 116, 128);
+  color: white;
+  text-decoration: none;
+  padding: 1%;
+  justify-content: flex-start;
+  border-radius: 10px;
+}
